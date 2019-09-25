@@ -6,7 +6,7 @@ Aussi comme la création d'un fichier Markdown.
 
 **_Programme en langage C_**
 
-`#include <stdio.h>  
+`#include <stdio.h>`  
 int main(int argc, char *argv[]) {  
   printf("Hello, world!\n");  
   return 0;  
