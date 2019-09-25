@@ -7,11 +7,9 @@ Aussi comme la création d'un fichier Markdown.
 **_Programme en langage C_**
 
 `#include <stdio.h>
-
 int main(int argc, char *argv[]) {
   printf("Hello, world!\n");
-  
-  return 0;
+  return 0;`
 }`
 
 ![C](https://i.ibb.co/QKr3vSG/Code-Window-icon.png)
